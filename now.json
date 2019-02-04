@@ -21,6 +21,6 @@
   ],
   "alias": "ovr-sd-dsd",
   "builds": [
-    { "use": "@now/static-build", "src": "package.json", "config": { "distDir": "out" } }
+    { "use": "@now/static-build", "src": "package.json", "config": { "distDir": "public" } }
   ]
 }
