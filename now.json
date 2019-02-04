@@ -19,5 +19,5 @@
       "headers": { "cache-control": "public, max-age=0, must-revalidate" }
     }
   ],
-  'alias': 'ovr-sd-dsd'
+  "alias": "ovr-sd-dsd"
 }
